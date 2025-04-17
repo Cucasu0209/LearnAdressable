@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: AnimalAsset
+  m_EditorClassIdentifier: 
+  m_GroupName: AnimalAsset
+  m_Data:
+    m_SerializedData: []
+  m_GUID: a4245ee0314f8e84ab8742ae515b2ae1
+  m_SerializeEntries:
+  - m_GUID: 15ca4494f24bf9741a48b37ec2c4c632
+    m_Address: Assets/ithappy/Animals_FREE/Prefabs/Dog_001.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Mamal
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 44a0de0f766c9634eb66f1d56b7edc9d
+    m_Address: Assets/ithappy/Animals_FREE/Prefabs/Kitty_001.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Mamal
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dfb23d60f30c46847ba7815aa09e2567
+    m_Address: Assets/ithappy/Animals_FREE/Prefabs/Horse_001.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Others
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8741cd6c8b9fc3947999191d0c381f50
+    m_Address: Assets/ithappy/Animals_FREE/Prefabs/Tiger_001.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Others
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b0b0b098177a3b439c80991ec9deacc
+    m_Address: Assets/ithappy/Animals_FREE/Prefabs/Chicken_001.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Mamal
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ecab060b0afb5d4db61f7f1311b9e24
+    m_Address: Assets/ithappy/Animals_FREE/Prefabs/Deer_001.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Others
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 66f01a8db88f9644baed659d1f91cdca
+    m_Address: Assets/ithappy/Animals_FREE/Prefabs/Pinguin_001.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Mamal
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e45fe983893008440a5cc218b4af35b9, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 559cb30f764559442ba982ea9d74b72e, type: 2}
+    - {fileID: 11400000, guid: 7fe6cfcd18943534a847cf8b93e9b669, type: 2}
